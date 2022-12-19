@@ -46,8 +46,8 @@ $(document).ready(function () {
         $(".stage1").fadeOut();
         fire_modal(
           "asset/img/cake_modal.png",
-          "Mari buat kue ulang tahun mu!",
-          "Karena ini ulang tahunmu, pas kalau kamu buat kue ulang tahun secara digital sendiri. Untuk membuat kuenya, mulai dari mengaduk adonan kue yang kamu buat, panggang didalam oven dan terakhir silahkan kamu hias sesuai kemauan kamu. Sebelumnya selamat ulang tahun semoga kamu suka sama hadiahnya!"
+          "BUB ayo buat kue ulang tahun nya😂",
+          "Karena ini ulang tahun bubub, pas banget  kalau kamu buat kue ulang tahun secara digital sendiri semoga bubub suka. Untuk membuat kuenya, mulai dari mengaduk adonan kue yang kamu buat, panggang didalam oven dan terakhir silahkan kamu hias sesuai kemauan kamu. Sebelumnya selamat ulang tahun semoga kamu suka sama hadiahnya!"
         );
       });
 
@@ -93,7 +93,7 @@ $(document).ready(function () {
           fire_modal(
             "asset/img/mix_modal.png",
             "Adonan sudah merata!",
-            "Selamat, adonannya sudah merata! Sekarang mari ketahap pembuatan kue selanjutnya"
+            "HOREEEEEEEE adonannya sudah merata! Sekarang mari ketahap pembuatan kue selanjutnya"
           );
         }
       });
@@ -107,7 +107,7 @@ $(document).ready(function () {
           fire_modal(
             "asset/img/oven_modal.png",
             "Berhasil dipanggang!",
-            "Asik, kamu adalah koki yang hebat. Semuanya sudah terpanggang dengan baik dan adonannya terlihat sangat enak. Sekarang waktunya kamu menghias kue ulang tahun mu dengan menambahkan beberapa hal seperti madu, krim, coklat dll."
+            "Asik, bubub udah buat kuehya bubub koki yang hebat. Semuanya sudah terpanggang dengan baik dan adonannya terlihat sangat enak. Sekarang waktunya kamu menghias kue ulang tahun mu dengan menambahkan beberapa hal seperti madu, krim, coklat dll biar manis kaya bubub."
           );
         },
       });
